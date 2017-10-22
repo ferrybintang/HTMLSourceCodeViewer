@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HTML Source Code Viewer</string>
+    <string-array name="protocol">
+        <item>Pilih Protocol :</item>
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
